@@ -48,7 +48,7 @@ Tommy McLeroy's CPS2Recomp: https://github.com/tmcleroy/cps2recomp
 
 ALL GAME VALUES, MODES, AND MODIFIERS ARE CONCEIVED, DESIGNED, AND HANDWRITTEN BY A HUMAN! 
 
-I can provide raw, original markdowns of documentation, notes, code, and other misc. archival files upon request. :)
+I can provide raw, original markdowns of documentation, notes, code, and other misc. archival files upon request.
 
 SPECIAL THANKS to CAPCOM 
 
