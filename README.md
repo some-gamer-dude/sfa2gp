@@ -1,8 +1,6 @@
-# sfa2gp
+# STREET FIGHTER ALPHA 2 GOLD+
 
 <img width="128" height="48" alt="LOGO_NEW" src="https://github.com/user-attachments/assets/96bb929d-55ac-4071-b35e-61a7e6324cb9" />
-
-STREET FIGHTER ALPHA / ZERO 2 GOLD+ RECOMP PROJECT
 
 After what felt like an endless amount of bug hunting, I have narrowed down what I could for this build. 
 Things are not perfect, so please don't expect that from this game; it wasn't perfect in 1996. 
