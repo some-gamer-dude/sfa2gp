@@ -39,6 +39,8 @@ Above all, enjoy.
 
 Play to your heart's content. 
 
+`CONTROLLER NOTE: I only have Xinput controllers at the moment, so I was only able to test those and my keyboard. Please let me know if other pads, sticks, or peripherals are confirmed working!`
+
 --------
 CODE POWERED BY: 
 --------
