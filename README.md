@@ -13,8 +13,9 @@ Here in the repo, you'll find everything you need to play except for ROMs.
 
 The required ROMs to play are:
 
-sfa2.zip
-sfa2u.zip 
+`sfa2.zip`
+
+`sfa2u.zip` 
 
 They are read directly from the `rom/` folder. 
 
