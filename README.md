@@ -44,7 +44,7 @@ Play to your heart's content.
 --------
 CODE POWERED BY: 
 --------
-Tommy McLeroy's CPS2Recomp
+Tommy McLeroy's CPS2Recomp: https://github.com/tmcleroy/cps2recomp
 
 ALL GAME VALUES, MODES, AND MODIFIERS ARE CONCEIVED, DESIGNED, AND HANDWRITTEN BY A HUMAN! 
 
