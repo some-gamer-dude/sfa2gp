@@ -1,6 +1,6 @@
 # sfa2gp
-Street Fighter Alpha 2 Gold+ Recomp Mod 
-|||||||||||||||||||||||||||||||||||||||||||||||
+STREET FIGHTER ALPHA / ZERO 2 GOLD+ RECOMP PROJECT
+
 After what felt like an endless amount of bug hunting, I have narrowed down what I could for this build. 
 Things are not perfect, so please don't expect that from this game; it wasn't perfect in 1996. 
 Custom, bespoke game values will be adjusted as players explore and break things, of course. 
@@ -17,7 +17,9 @@ sfa2u.zip
 
 They are read directly from the `rom/` folder. 
 
-Manuals, or FIELD GUIDES, are available in PDF and text-only markdown formats. 
+Manuals, or FIELD GUIDES, will (eventually) be available in PDF and text-only markdown formats. 
+
+Until then, v0.3 of the current FIELD GUIDES are HTML-sided here: https://sfa2gp.neocities.org/
 
 The current available languages are:
 
