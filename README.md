@@ -23,9 +23,11 @@ Until then, v0.3 of the current FIELD GUIDES are HTML-sided here: https://sfa2gp
 
 The current available languages are:
 
-ENGLISH (US) 
-SPANISH (US)
-JAPANESE 
+*ENGLISH (US)*
+
+*SPANISH (US)*
+
+*JAPANESE*
 
 Future languages are planned, but have not yet been implemented, so forgive that. 
 
