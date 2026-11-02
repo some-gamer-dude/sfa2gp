@@ -1,3 +1,4 @@
+```
 GOLD PLUS v0.0.6
 ---------------------
 + added stage select for all modes excluding ARCADE 
@@ -48,3 +49,4 @@ Do NOT accidentally overwrite your `data/` folder with the newly included one if
 Also, some of these assists are absolute dogwater. I am very aware of that. 
 
 If you all would like different assists, just say the word, and I'll pick different moves. Hahaha
+```
